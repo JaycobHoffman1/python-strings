@@ -13,7 +13,7 @@ If that doesn\'t solve your problem, feel free to contact support.',
 If you still need help, feel free to contact support.',
 'I\'m sorry to hear you are having a problem. I would recommend searching for your problem at our online Help Center. \
 Alternatively, you may contact support.',
-'You may call support at (123) 456-7890 or email at support@email.com.',
+'You may call support at (123) 456-7890 or email at support@email.com.'
 ]
 
 commands2 = ['login', 'performance', 'error', 'password', 'email', 'subscription']
@@ -23,7 +23,7 @@ replies2 = [
 'Thanks for letting me know! I will tell the support team that you are experiencing an error.',
 'I\'m sorry to hear that. I will get in touch with the support team and let them you you are having an issue with your password.',
 'Ok. I will let the support team know about your issue with your email.',
-'Got it! I will tell the support team about your subscription issue.',
+'Got it! I will tell the support team about your subscription issue.'
 ]
 
 error_message = 'I\'m sorry, but I don\'t understand. Please try again.'
